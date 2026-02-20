@@ -42,8 +42,20 @@ yolo detect train data=microplastic.yaml model=yolov8n.pt epochs=25 imgsz=640
 
 yolo detect predict model=best.pt source=images/
 
+##  Sample Detection Output
 
-## 📈 Research Contribution
+![Detection Example](images/sample_prediction.jpg)
+
+##  Training Results
+
+![Training Curve](images/results.png)
+
+##  Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+
+##  Research Contribution
 
 This project demonstrates the feasibility of automated microplastic detection using deep learning-based object detection models. The approach enables scalable environmental monitoring and supports sustainability-focused research initiatives.
 
