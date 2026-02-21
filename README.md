@@ -42,10 +42,6 @@ yolo detect train data=microplastic.yaml model=yolov8n.pt epochs=25 imgsz=640
 
 yolo detect predict model=best.pt source=images/
 
-##  Sample Detection Output
-
-![Detection Example](sample_prediction.jpg)
-
 ##  Training Results
 
 ![Training Curve](results.png)
