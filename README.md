@@ -44,15 +44,15 @@ yolo detect predict model=best.pt source=images/
 
 ##  Sample Detection Output
 
-![Detection Example](images/sample_prediction.jpg)
+![Detection Example](sample_prediction.jpg)
 
 ##  Training Results
 
-![Training Curve](images/results.png)
+![Training Curve](results.png)
 
 ##  Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 
 ##  Research Contribution
