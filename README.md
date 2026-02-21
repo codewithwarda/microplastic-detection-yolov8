@@ -58,10 +58,3 @@ yolo detect predict model=best.pt source=images/
 ##  Research Contribution
 
 This project demonstrates the feasibility of automated microplastic detection using deep learning-based object detection models. The approach enables scalable environmental monitoring and supports sustainability-focused research initiatives.
-
-
-##  Author
-
-Warda Khan  
-BS Computer Science  
-AI & Computer Vision Enthusiast
